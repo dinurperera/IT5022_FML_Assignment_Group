@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1,Recall (Dropout),Recall (Enrolled),Recall (Graduate)
+LR - Baseline,0.7718,0.6938,0.7641,0.3711,0.9208
+LR - Class-weighted,0.7288,0.6904,0.7007,0.6164,0.7873
+LR - SMOTE,0.7288,0.6893,0.7148,0.5975,0.7851
